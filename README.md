@@ -49,3 +49,7 @@ Aby byla data z IoT jednotky uložena, je třeba přidat stroj, ze kterého se b
 
 ## Ovládání aplikace - Graf
 V programu je k dispozici zobrazení grafů, které ukazují Aktuální stav strojů (kolik strojů orá, seje, v pohybu atd...). Dále je k dispozici graf, kde lze vidět 7 nejslabších baterií IoT jednotek. Poslední graf pak zobrazuje průběhy tenzometrů v čase. Pro zobrazení vyberte požadovaný stroj, datum a klikněte na tlačítko "Zobrazit".
+
+# Zdrojové kódy
+[Generátor](https://github.com/JaroslavVondrakcz/dbs_semestralni_projekt_generator)\
+[IoTDataViewer](https://github.com/JaroslavVondrakcz/dbs_semestralni_projekt)
